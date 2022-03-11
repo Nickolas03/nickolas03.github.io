@@ -9,6 +9,9 @@ html, body, #fg, #bg {
   overflow:hidden;
 }
 
+h1 {
+    text-align: center;
+}
 div {
   position:absolute;
   top:0;
